@@ -1,5 +1,5 @@
 import { useEffect,useState } from 'react'
-import Loader from './components/loader'
+import Loader from './components/Loader'
 import Home from './components/Home'
 
 function App(){
